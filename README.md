@@ -2,6 +2,9 @@
 
 A native macOS menu bar app that shows battery status, per-app energy usage, and actionable insights. Built with Swift/SwiftUI, no external dependencies.
 
+<img width="375" height="762" alt="image" src="https://github.com/user-attachments/assets/73cf935c-7393-4e18-a667-f14ca9174348" />
+
+
 ## What it does
 
 **Menu bar** shows battery percentage and time remaining in compact format:
