@@ -47,9 +47,9 @@ struct BatteryInfo {
 
     var menuBarText: String {
         if isFullyCharged && isPluggedIn {
-            return "100% — Charged"
+            return "100%"
         }
-        return "\(percentage)% - \(compactTime)"
+        return "\(percentage)% \(compactTime)"
     }
 
     var menuBarIcon: String {
